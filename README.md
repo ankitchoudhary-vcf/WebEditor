@@ -33,7 +33,7 @@ A web browser should automatically open http://localhost:3000.
 
 ## Authors
 
-  - **Ankit Choudhary** - [PurpleBooth](https://github.com/ankit1509)
+  - [Ankit Choudhary](https://github.com/ankit1509)
 
 See also the list of
 [contributors](https://github.com/ankit1509/WebEditor/contributors)
